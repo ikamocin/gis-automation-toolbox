@@ -1,0 +1,12 @@
+name: gis-automation-toolbox
+channels:
+  - esri
+  - conda-forge
+dependencies:
+  - python
+  - arcpy
+  - pandas
+  - numpy
+  - pytest
+  - pyyaml
+  
